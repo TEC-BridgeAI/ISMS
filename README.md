@@ -111,7 +111,7 @@ This project is licensed under the **MIT License** – you're free to use, modif
 
 Need help? Feel free to reach out via:
 - [GitHub Issues](https://github.com/your-repo/issues)
-- Email: your-email@example.com  
+- Email: tecbridgeAI@gmail.com  
 
 Let's build something awesome together! 🚀🎯
 ```
